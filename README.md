@@ -1,5 +1,5 @@
 ## Hi, I'm Tafsin Ahmed 👋
-[<img src='https://tafsinahmed.com/wp-content/uploads/2025/03/Tafsin-git.png' alt='Tafsin Ahmed'>](https://github.com/tafsin80p/)
+[<img src='https://tafsinahmed.info/wp-content/uploads/2025/03/Tafsin-git.png' alt='Tafsin Ahmed'>](https://github.com/tafsin80p/)
 <p>
 👨🏻‍💻 I am Web Developer & WordPress Expert <br> 
 ✍🏻 Love to write code <br> 
